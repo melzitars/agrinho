@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+/* Variáveis */
+:root {
+    --primary-color: #2E8B57;
+    --secondary-color: 	#3CB371;
+    --text-color: #008000;
+    --background-color: #F2E3D5;
+    --button-hover: #006400;
+    --font-body: "Lexend Deca", serif;
+    --font-titulo: "Variable Font", serif;
+}
+
+/* código omitido */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-body);
+}
+
+/* Corpo da página */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 90%;
+}
+
+/* código omitido */
