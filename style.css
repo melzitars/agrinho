@@ -5,7 +5,7 @@
     --primary-color: #2E8B57;
     --secondary-color: 	#3CB371;
     --text-color: #008000;
-    --background-color: #F2E3D5;
+    --background-color: #66CDAA;
     --button-hover: #006400;
     --font-body: "Lexend Deca", serif;
     --font-titulo: "Variable Font", serif;
@@ -31,7 +31,7 @@ h3 {
 }
 
 p {
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 img {
