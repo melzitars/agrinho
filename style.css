@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 /* Variáveis */
 :root {
-    --primary-color: #2E8B57;
-    --secondary-color: 	#3CB371;
-    --text-color: #008000;
+    --primary-color: #026773;
+    --secondary-color: #3CA6A6;
+    --text-color: #024959;
     --background-color: #66CDAA;
-    --button-hover: #006400;
-    --font-body: "Lexend Deca", serif;
-    --font-titulo: "Variable Font", serif;
+    --button-hover: #012E40;
+    --font-body: "Chocolate Classical Sans", serif;
+    --font-titulo: "Rakkas", serif;
 }
 
 /* Reset */
