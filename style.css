@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 :root {
-    --primary-color: #125a3c;
-    --secondary-color: #686f72;
-    --text-color: #032909;
-    --background-color: #0b5744;
+    --primary-color: #295e32;
+    --secondary-color: #4e5152;
+    --text-color: #12551c;
+    --background-color: #05382b;
     --button-hover: #25995f;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
@@ -33,7 +33,7 @@ h3 {
 p {
     margin-top: 15px;
     margin-bottom: 15px;
-    color: #333;
+    color: #051b0b;
 }
 
 img {
@@ -47,7 +47,7 @@ img {
 
 header {
     background: var(--primary-color);
-    color: white;
+    color: rgba(56, 138, 67, 0.589);
     text-align: center;
     padding: 30px 20px;
     border-radius: 10px;
@@ -81,12 +81,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: white;
+    color: rgb(150, 150, 150);
     text-decoration: underline;
 }
 
 .conteudo {
-    background: rgb(240, 240, 240);
+    background: rgb(4, 63, 45);
     padding: 30px;
     margin: 20px auto;
     max-width: 800px;
